@@ -1,4 +1,6 @@
-Conf-rences
+Conférences
 ===========
 
-Conférences sur le chiffrement
+Conférences sur le chiffrement.
+
+
