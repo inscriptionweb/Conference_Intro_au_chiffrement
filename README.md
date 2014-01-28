@@ -1,6 +1,8 @@
-Conférences
-===========
+Conférence Introduction au chiffrement
+=================================
 
-Slides de la conférence Introduction au chiffrement présenté lors de l'Ubuntu Party de novembre 2013.
-- Source LaTEX/Beamer + pdf
+Présentée lors de l'Ubuntu Party de novembre 2013.
 
+Slides de la conférence : Source LaTEX/Beamer + pdf
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
